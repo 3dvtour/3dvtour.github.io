@@ -1,0 +1,14 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
+
+## Media
+
+### Title
+panorama_B87C5E35_B22C_78FF_41C3_434990CC70D8.label = ipswich2
+panorama_B98A4BAC_B22D_9FED_41DB_51CD78EF40FA.label = ipswich1
